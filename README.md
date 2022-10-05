@@ -111,6 +111,6 @@ To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
 
-<tr><td align="center"><a href="https://github.com/OS2626"><kbd><img src="https://avatars.githubusercontent.com/u/115077601?size=100" width="100px;" alt=""/></kbd><br /><sub><b>SSGMCE</b></sub></a><br /></td>
+<tr><td align="center"><a href="https://github.com/OS2626"><kbd><img src="https://avatars.githubusercontent.com/u/115077601?s=400&v=4" width="100px;" alt=""/></kbd><br /><sub><b>SSGMCE</b></sub></a><br /></td>
 
 </tr>
