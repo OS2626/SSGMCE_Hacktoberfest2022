@@ -51,3 +51,4 @@ int main()
 }
 //Time Complexity: O(N)
 //Auxiliary Space: O(1)
+//This is a algorithm
