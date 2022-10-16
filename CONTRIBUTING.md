@@ -16,7 +16,7 @@ Enter your Name & Github Link in the given format. Don't try to change anything 
 | Omkar Mante |<a href="https://github.com/omkar260">https://github.com/omkar260</a> |
 | Maaz Mahmood |<a href="https://github.com/maazm007">https://github.com/maazm007</a> |
 | Om Nalamwar |<a href="https://github.com/omnalamwar/">https://github.com/omnalamwar/</a> |
-
+| Max Muller|<a href="https://github.com/mmvonnseek/">https://github.com/mmvonnseek/</a> |
 
 
 Thanks to everyone who helped in building this Repository :)
